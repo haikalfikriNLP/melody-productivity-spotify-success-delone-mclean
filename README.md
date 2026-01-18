@@ -34,7 +34,14 @@ Tujuan penelitian ini adalah:
 
 ## Research Model
 
-Penelitian ini menggunakan **DeLone and McLean Information Systems Success Model**
+Penelitian ini menggunakan **Model penelitian yang digunakan merupakan
+pengembangan dari Model DeLone dan McLean,
+dengan konstruk dan indikator
+yang diadaptasi dari penelitian
+Assegaff, Setiawan, et al.**
+
+![Methodology](assets/methodology.png)
+
 dengan variabel utama sebagai berikut:
 - System Quality
 - Information Quality
@@ -60,6 +67,9 @@ Metodologi penelitian yang digunakan meliputi:
 ---
 
 ## Research Output
+![Result to Method](assets/delone-mclean-result.png)
+
+![Result Hipotesa](assets/hasil-hipotesis.png)
 
 Output utama dari penelitian ini meliputi:
 - Analisis tingkat kesuksesan aplikasi Spotify
