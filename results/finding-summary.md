@@ -75,7 +75,7 @@ memberikan dampak positif
 bagi produktivitas pengguna profesional.
 
 ---
-![Hasil Hipotesis](assets/hasil-hipotesis.png)
+![Hasil Hipotesis](../assets/hasil-hipotesis.png)
 ## Discussion
 
 Temuan penelitian mengonfirmasi bahwa
