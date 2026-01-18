@@ -38,7 +38,7 @@ Penelitian ini menggunakan **Model penelitian yang digunakan merupakan
 pengembangan dari Model DeLone dan McLean,
 dengan konstruk dan indikator
 yang diadaptasi dari penelitian
-Assegaff, Setiawan, et al.**
+Assegaff, Setiawan, et al. 2017**
 
 ![Methodology](assets/methodology.png)
 
