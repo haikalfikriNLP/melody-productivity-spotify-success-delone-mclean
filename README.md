@@ -81,3 +81,8 @@ spotify-app-success-delone-mclean/
 │   └── research-model.png
 └── results/
     └── findings-summary.md
+```
+## Reference
+
+Full research paper is available at:
+https://www.researchgate.net/publication/387747502_Melodi_Produktivitas_Evaluasi_Kesuksesan_Aplikasi_Spotify_pada_Kalangan_Profesional_Kota_Jambi_Berdasarkan_Model_Delone_dan_McLean
