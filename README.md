@@ -1,12 +1,13 @@
 # Spotify Application Success Evaluation using DeLone and McLean Model
 
-Repository ini merupakan dokumentasi dan ringkasan penelitian
+Repository ini berisi dokumentasi dan ringkasan penelitian
 yang mengevaluasi tingkat kesuksesan aplikasi **Spotify**
 berdasarkan **Model Kesuksesan Sistem Informasi DeLone dan McLean**.
 
-Penelitian berfokus pada persepsi pengguna profesional
-terhadap kualitas sistem, kualitas informasi, kualitas layanan,
-serta dampaknya terhadap kepuasan pengguna dan manfaat bersih (net benefits).
+Penelitian ini berfokus pada persepsi pengguna profesional
+terhadap kualitas sistem, kualitas informasi, dan kualitas layanan,
+serta dampaknya terhadap kepuasan pengguna
+dan manfaat bersih (*net benefits*).
 
 ---
 
@@ -14,68 +15,83 @@ serta dampaknya terhadap kepuasan pengguna dan manfaat bersih (net benefits).
 
 Aplikasi streaming musik seperti Spotify
 memiliki peran penting dalam mendukung produktivitas
-dan aktivitas profesional sehari-hari.
+dan aktivitas profesional sehari-hari,
+baik sebagai media hiburan maupun pendukung fokus kerja.
 
-Untuk menilai keberhasilan implementasi sistem informasi tersebut,
-digunakan **Model DeLone dan McLean** yang secara luas
-diterapkan dalam evaluasi kesuksesan sistem informasi.
+Untuk mengevaluasi tingkat keberhasilan
+implementasi sistem informasi tersebut,
+digunakan **Model Kesuksesan Sistem Informasi DeLone dan McLean**
+yang telah banyak diterapkan
+dalam penelitian evaluasi sistem informasi.
 
 ---
 
 ## Research Objectives
 
-Tujuan penelitian ini adalah:
+Tujuan dari penelitian ini adalah:
 - Mengevaluasi tingkat kesuksesan aplikasi Spotify
-- Menganalisis pengaruh kualitas sistem, informasi, dan layanan
-- Mengukur kepuasan pengguna dan manfaat bersih aplikasi
-- Menerapkan Model DeLone dan McLean sebagai kerangka evaluasi
+- Menganalisis pengaruh kualitas sistem, kualitas informasi,
+  dan kualitas layanan terhadap penggunaan dan kepuasan pengguna
+- Mengukur dampak penggunaan aplikasi terhadap manfaat bersih (*net benefits*)
+- Menerapkan Model DeLone dan McLean
+  sebagai kerangka evaluasi kesuksesan sistem informasi
 
 ---
 
 ## Research Model
 
-Penelitian ini menggunakan **Model penelitian yang digunakan merupakan
-pengembangan dari Model DeLone dan McLean,
+Model penelitian yang digunakan merupakan
+**pengembangan dari Model Kesuksesan Sistem Informasi DeLone dan McLean**,
 dengan konstruk dan indikator
 yang diadaptasi dari penelitian
-Assegaff, Setiawan, et al. 2017**
+**Assegaff, Setiawan, et al. (2017)**.
 
-![Methodology](assets/methodology.png)
-
-dengan variabel utama sebagai berikut:
-- System Quality
-- Information Quality
-- Service Quality
-- Use / Intention to Use
-- User Satisfaction
-- Net Benefits
-
-Model ini digunakan untuk menganalisis hubungan antar variabel
+Model ini digunakan untuk menganalisis
+hubungan antar variabel
 dalam menentukan tingkat kesuksesan aplikasi Spotify.
+
+<p align="center">
+  <img src="assets/methodology.png" width="600"/>
+</p>
+
+### Variabel Penelitian
+- **System Quality**
+- **Information Quality**
+- **Service Quality**
+- **Use / Intention to Use**
+- **User Satisfaction**
+- **Net Benefits**
 
 ---
 
 ## Research Methodology
 
-Metodologi penelitian yang digunakan meliputi:
-1. Penentuan variabel berdasarkan Model DeLone dan McLean
+Metodologi penelitian yang digunakan meliputi tahapan berikut:
+1. Penentuan variabel penelitian
+   berdasarkan Model DeLone dan McLean
 2. Penyusunan instrumen kuesioner
-3. Pengumpulan data responden profesional
+3. Pengumpulan data dari responden profesional
 4. Analisis data secara kuantitatif
 5. Interpretasi hasil dan penarikan kesimpulan
 
 ---
 
 ## Research Output
-![Result to Method](assets/delone-mclean-result.png)
 
-![Result Hipotesa](assets/hasil-hipotesis.png)
+<p align="center">
+  <img src="assets/delone-mclean-result.png" width="500"/>
+</p>
+
+<p align="center">
+  <img src="assets/hasil-hipotesis.png" width="500"/>
+</p>
 
 Output utama dari penelitian ini meliputi:
 - Analisis tingkat kesuksesan aplikasi Spotify
 - Hubungan antar variabel dalam Model DeLone dan McLean
-- Insight terhadap faktor-faktor yang memengaruhi kepuasan pengguna
-- Rekomendasi pengembangan sistem berbasis hasil evaluasi
+- Identifikasi faktor-faktor yang memengaruhi kepuasan pengguna
+- Rekomendasi pengembangan sistem
+  berdasarkan hasil evaluasi empiris
 
 ---
 
@@ -88,11 +104,12 @@ spotify-app-success-delone-mclean/
 │   ├── research-summary.md
 │   └── methodology.md
 ├── assets/
-│   └── research-model.png
+│   ├── methodology.png
+│   ├── delone-mclean-result.png
+│   └── hasil-hipotesis.png
 └── results/
     └── findings-summary.md
 ```
-## Reference
 
 Full research paper is available at:
 https://www.researchgate.net/publication/387747502_Melodi_Produktivitas_Evaluasi_Kesuksesan_Aplikasi_Spotify_pada_Kalangan_Profesional_Kota_Jambi_Berdasarkan_Model_Delone_dan_McLean
