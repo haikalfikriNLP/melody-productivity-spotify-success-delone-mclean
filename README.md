@@ -60,7 +60,7 @@ dalam menentukan tingkat kesuksesan aplikasi Spotify.
 - **Service Quality**
 - **Use / Intention to Use**
 - **User Satisfaction**
-- **Net Benefits**
+- **Individual Impact**
 
 ---
 
