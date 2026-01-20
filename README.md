@@ -1,13 +1,16 @@
-# Spotify Application Success Evaluation using DeLone and McLean Model
+# Spotify Application Success Evaluation Using DeLone–McLean IS Success Model (Assegaff et al. Adaptation)
 
 Repository ini berisi dokumentasi dan ringkasan penelitian
 yang mengevaluasi tingkat kesuksesan aplikasi **Spotify**
-berdasarkan **Model Kesuksesan Sistem Informasi DeLone dan McLean**.
+berdasarkan **Model Kesuksesan Sistem Informasi DeLone dan McLean**,
+dengan konstruk dan indikator yang diadaptasi
+dari penelitian **Assegaff et al.**.
 
 Penelitian ini berfokus pada persepsi pengguna profesional
-terhadap kualitas sistem, kualitas informasi, dan kualitas layanan,
+terhadap kualitas sistem, kualitas informasi,
+dan kualitas layanan,
 serta dampaknya terhadap kepuasan pengguna
-dan manfaat bersih (*net benefits*).
+dan **dampak individual (*individual impact*)**.
 
 ---
 
